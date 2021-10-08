@@ -1,6 +1,6 @@
 # Programming Books Data Analysis Project
 
-A beginner-level exploratory data analysis project (my first, actually). This analysis is being submitted as my final project for the Summer 2021 session WRAP IT, a joint initiative by SUNY Adirondack and CanCode Communities.
+A beginner-level exploratory data analysis project (my first, actually). This analysis is being submitted as my final project for the Summer 2021 session of WRAP IT, a joint initiative by SUNY Adirondack and CanCode Communities.
 
 ## Resources
 
